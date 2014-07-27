@@ -1,8 +1,8 @@
 ==========================================
 GetSetGo PHP	Version 1.0		21/07/2014
 ------------------------------------------
-+ Website: http://yashbeer.com/getsetgo
-+ Email: getsetgo@yashbeer.com
++ Website: http://yashbeer.com/getsetgophp
++ Email: yashbeersinghjsn@gmail.com
 ==========================================
 
 1. ABOUT
