@@ -6,7 +6,7 @@ defined('DB_PASS')		? null : define("DB_PASS", "");
 defined('DB_NAME')		? null : define("DB_NAME", "getsetgo");
 
 //url constants
-defined('BASE_URL')		? null : define("BASE_URL", "http://localhost:81/sandbox/framework/");
+defined('BASE_URL')		? null : define("BASE_URL", "http://localhost/getsetgophp");
 defined('REDIRECT_URL')	? null : define("REDIRECT_URL", BASE_URL."login.php");
 
 // File system paths
